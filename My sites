@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="https://learn.algonova.id/lesson?lesson=17041&task=39244&level=3">About the author</a>
+    </header>
+    <main>
+      <h1>My Sites</h1>
+      <p class="text-big"><b>from the Wix constructor to making pages with HTML and CSS</b></p>
+      <p><a class="link-text" href="https://jassudarsono.wixsite.com/my-site"><b>Website</b></a> of a cattery consisting of several pages was assembled in Wix</p>
+        <p><a class="link-text" href="https://jassudarsono.wixsite.com/my-site-2"><b>Website</b></a> of services; the styles were written in the style attribute</p>
+        <p><a class="link-text" href="https://jassudarsono.wixsite.com/my-site-1"><b>Website</b></a> of a trip; CSS selectors, file with styles</p>
+      <p><a class="link-text" href="https://www.figma.com/design/7su4SOCxLg2EBLnyBGhmkR/Untitled?node-id=0-1&m=dev&t=p3DoGql2l5j6h7hg-1"><b>Layout</b></a> of a multi-page website created in Figma</p>
+        <p><a class="link-text" href="https://jassudarsono.wixsite.com/my-site-3"><b>Website</b></a> of dogs; page making according to a layout, margins</p>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
