@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    font-style: italic;
+}
+
+nav {
+    border: 1px solid black;
+}
+
+header {
+    font-size: 20px;
+    margin: 5px;
+}
+
+li {
+    font-family: serif;
+    font-style: italic;
+}
